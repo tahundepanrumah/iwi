@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://iwill.earthhour.org/sitemap.xml
